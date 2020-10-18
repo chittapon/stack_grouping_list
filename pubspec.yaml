@@ -1,8 +1,8 @@
 name: stack_grouping_list
 description: Stack grrouping list inpired by iOS notification group.
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+homepage: https://github.com/chittapon/stack_grouping_list
+issue_tracker: https://github.com/chittapon/stack_grouping_list/issues
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
